@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": ".",
-      "program": "build/Debug/outDebug"
+      "cwd": "/Users/wildaying/Documents/GitHub/smallwoodbucket/测试文件夹",
+      "program": "/Users/wildaying/Documents/GitHub/smallwoodbucket/测试文件夹/build/Debug/outDebug"
     }
   ]
 }
