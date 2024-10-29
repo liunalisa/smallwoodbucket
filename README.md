@@ -7,3 +7,5 @@ To make a situation or environment feel cheerful, lively, and fun, like the feel
 
 - "Let’s bubblyfy the party with some fun decorations!"
 - "Her smile really bubblyfies the room."
+ 这是说的顾斌老师
+ 
